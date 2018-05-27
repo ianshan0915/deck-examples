@@ -5,6 +5,7 @@ on [ScatterplotLayer](http://uber.github.io/deck.gl/#/documentation/deckgl-api-r
 Copy the content of this folder to your project. Run
 ```
 npm install
+export MapboxAccessToken=<Your_MapboxAccessToken>
 npm start
 ```
 

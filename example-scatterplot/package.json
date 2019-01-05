@@ -4,14 +4,14 @@
     "start": "webpack-dev-server --progress --hot --open"
   },
   "dependencies": {
-    "deck.gl": ">=5.2.0-alpha.7",
-    "nan": "^2.10.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-map-gl": "^3.2.0"
+    "deck.gl": "^6.3.3",
+    "nan": "^2.12.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-map-gl": "^3.3.9"
   },
   "devDependencies": {
     "buble-loader": "^0.4.0",
-    "webpack-dev-server": "^2.11.2"
+    "webpack-dev-server": "^2.11.3"
   }
 }
